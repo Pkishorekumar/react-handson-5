@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  
+}
+
+.increment{
+  background-color: black;
+  color: tomato;
+  font-weight: bolder;
+  border: transparent;
+  width: 150px;
+  height: 25px;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+.increment:hover{
+  background-color:tomato ;
+  color: black;
+  font-weight: bolder;
+  border: transparent;
+  width: 150px;
+  height: 25px;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+.decrement{
+  background-color: black;
+  color: tomato;
+  font-weight: bolder;
+  border: transparent;
+  width: 150px;
+  height: 25px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
+.decrement:hover{
+  background-color:tomato ;
+  color: black;
+  font-weight: bolder;
+  border: transparent;
+  width: 150px;
+  height: 25px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
+.respond-btn{
+  background-color: black;
+  color: tomato;
+  font-weight: bolder;
+  border: transparent;
+  width: 250px;
+  height: 25px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
+.respond-btn:hover{
+  background-color:tomato ;
+  color: black;
+  font-weight: bolder;
+  border: transparent;
+  width: 250px;
+  height: 25px;
+  border-radius: 25px;
+  margin-left: 10px;
+}
